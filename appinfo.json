@@ -18,7 +18,7 @@
                 "menuIcon": true,
                 "type": "png",
                 "name": "RESOURCE_ID_IMAGE_NO_LITTER",
-                "file": "images/cs.png"
+                "file": "resources/images/cs.png"
             }
         ]
     }
