@@ -15,11 +15,13 @@
     "resources": {
         "media": [
             
-            "type": "png",
-            "name": "IMAGE_NO_LITTER",
-            "file": "images/cs.png"
-            
-            
+      {
+        "type": "png",
+        "name": "IMAGE_NO_LITTER",
+        "file": "images/cs.png"
+        
+      }
+      
             ]
     }
 }
