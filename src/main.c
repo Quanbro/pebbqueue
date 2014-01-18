@@ -40,7 +40,6 @@ static void window_load(Window *window) {
 
 static void window_unload(Window *window) {
 	text_layer_destroy(text_layer);
-	app_sync_deinit(&sync);
 }
 
 static void init(void) {
