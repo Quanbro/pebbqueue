@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "6baf531b-e8a4-4356-a6ee-c7b1c9b3f6a0",
+    "appKeys": {},
+    "longName": "iQueued",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "iQueued",
+    "companyName": "Quanto",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
